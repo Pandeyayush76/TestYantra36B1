@@ -7,6 +7,10 @@ public class OrganizationModuleTest {
 	public void createOrgTest() {
 		System.out.println("createOrgTest executed");
 		System.out.println("done");
+		String browser=System.getProperty("BROWSER");
+		String url=System.getProperty("URL");
+		System.out.println(browser);
+		System.out.println(url);
 	}
 	@Test
 	public void createOrganizationAndDeleteTest() {
