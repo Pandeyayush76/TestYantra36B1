@@ -12,6 +12,7 @@ public class OrganizationModuleTest {
 	public void createOrganizationAndDeleteTest() {
 		System.out.println("createOrganizationAndDeleteTest executed");
 		System.out.println("done");
+		System.out.println("Verifying");
 	}
 		}
 
